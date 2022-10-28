@@ -14,11 +14,11 @@
   "author": "Ben Coleman",
   "license": "MIT",
   "devDependencies": {
-    "@actions/core": "^1.2.4",
+    "@actions/core": "^1.10.0",
     "@actions/github": "^4.0.0",
-    "@zeit/ncc": "^0.22.3",
     "@typescript-eslint/eslint-plugin": "^3.5.0",
     "@typescript-eslint/parser": "^3.5.0",
+    "@zeit/ncc": "^0.22.3",
     "eslint": "^7.4.0",
     "typescript": "^3.9.6"
   }
